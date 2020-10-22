@@ -5,6 +5,7 @@ Here we distribute the scripts to create the GlobalPhoneMS databases.
 
 ## GlobalPhoneMS2
 ### To do:
-- [] Create hierarchical structure (so far just GlobalPhoneMS2)
-- [] Uploade utterance lists
-- [] Uploade mixing script
+- [ ] Create hierarchical structure (so far just GlobalPhoneMS2)
+- [ ] Uploade utterance lists
+- [ ] Uploade mixing script and references
+- [ ] Housekeeping (references, description, etc.)
