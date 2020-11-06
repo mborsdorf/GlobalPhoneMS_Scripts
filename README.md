@@ -5,7 +5,7 @@ Here we distribute the scripts to recreate the GlobalPhone Mix-to-Separate (Glob
 
 ## GlobalPhoneMS2
 ### To do:
-- [ ] Create hierarchical structure (so far just GlobalPhoneMS2)
-- [ ] Uploade utterance lists
+- [x] Create hierarchical structure (so far just GlobalPhoneMS2)
+- [x] Uploade utterance lists
 - [ ] Uploade mixing script and references
 - [ ] Housekeeping (references, description, etc.)
