@@ -6,7 +6,7 @@ You can find our paper here:
 
 
 
-If you like working with the GlobalPhoneMS2 database, please cite us:  
+If you are working with the GlobalPhoneMS2 database, please cite us:  
 
 
 
