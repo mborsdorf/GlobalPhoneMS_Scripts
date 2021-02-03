@@ -9,6 +9,6 @@ You can find further information in the specific directory.
 ## To do:
 ### GlobalPhoneMS2
 - [x] Create hierarchical structure (so far just GlobalPhoneMS2)
-- [x] Uploade utterance lists
-- [ ] Uploade mixing script and references
+- [ ] Upload utterance lists
+- [ ] Upload mixing script and references
 - [ ] Housekeeping (references, description, etc.)
