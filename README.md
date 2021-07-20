@@ -1,4 +1,4 @@
-# GlobalPhoneMS_Scripts
+# GlobalPhoneMS Scripts
 Here we distribute the scripts to recreate the GlobalPhone Mix-to-Separate (GlobalPhoneMS) databases.
 
 ## License
