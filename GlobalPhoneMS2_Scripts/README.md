@@ -1,4 +1,4 @@
-# GlobalPhoneMS2_Scripts
+# GlobalPhoneMS2 Scripts
 Here we distribute the simulation scripts and speaker pair lists to recreate the GlobalPhone Mix-to-Separate out of 2 (GlobalPhoneMS2) database.
 
 The simulations scripts are based on the ones to create the wsj0-2mix database as used in [1]. We slightly have changed the main script for our purposes. For the original scripts please consult [2].
