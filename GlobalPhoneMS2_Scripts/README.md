@@ -37,7 +37,7 @@ Next you can find an overview of the GlobalPhoneMS2 database properties:
 | Vietnamese | 19899 / 6496 / 3000 | 30 / 10 / 4.08 |
 
 
-## If you like working with the GlobalPhoneMS2 database, please cite us:  
+## If you enjoyed working with this GlobalPhoneMS2 database, please cite us:  
 M. Borsdorf, C. Xu, H. Li, and T. Schultz, "GlobalPhone Mix-to-Separate out of 2: A Multilingual 2000 Speaker Mixtures Database for Speech Separation", accepted to INTERSPEECH 2021.
 
 You can find our paper here: *To be defined*
