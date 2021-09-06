@@ -37,10 +37,17 @@ Next you can find an overview of the GlobalPhoneMS2 database properties:
 | Vietnamese | 19899 / 6496 / 3000 | 30 / 10 / 4.08 |
 
 
-## If you enjoyed working with this GlobalPhoneMS2 database, please cite us:  
-M. Borsdorf, C. Xu, H. Li, and T. Schultz, "GlobalPhone Mix-to-Separate out of 2: A Multilingual 2000 Speaker Mixtures Database for Speech Separation", accepted to INTERSPEECH 2021.
+## If you enjoyed working with this GlobalPhoneMS2 database, please cite us:
 
-You can find our paper here: *To be defined*
+```
+@inproceedings{borsdorf21b_interspeech,
+author={Marvin Borsdorf and Chenglin Xu and Haizhou Li and Tanja Schultz},
+title={{GlobalPhone Mix-To-Separate Out of 2: A Multilingual 2000 Speakers Mixtures Database for Speech Separation}},
+year=2021,
+booktitle={Proc. Interspeech 2021},
+pages={3905--3909},
+doi={10.21437/Interspeech.2021-1552}}
+```
 
 ## References
 [1] J. R. Hershey, Z. Chen, J. Le Roux, and S. Watanabe, "Deep Clustering: Discriminative Embeddings for Segmentation and Separation", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), DOI: 10.1109/ICASSP.2016.7471631, March 2016, pp. 31-35.  
